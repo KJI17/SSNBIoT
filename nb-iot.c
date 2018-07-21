@@ -30,7 +30,7 @@ int packet_delay_stats[M_max+1]; //packet delay statistics per user
 //desired output:resource efficiency
 //no additional variable here
 
-//additional statistics:
+//additional statistics (future development):
 //average number of packet created per slot
 //average number of packet sent (transmission/retransmission) per slot
 //average number of collision per slot
