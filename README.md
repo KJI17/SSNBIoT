@@ -1,2 +1,2 @@
 # SSNBIoT
-Small yet Lite Steady-state Performance in Narrowband Internet of Things (NB-IoT) Simulation
+Small Steady-state Performance in Narrowband Internet of Things (NB-IoT) Simulation
